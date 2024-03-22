@@ -107,7 +107,7 @@ def watt() :
     i = int(input("berapa ampere kuat arus nya ? : "))
     hasil = v*i
     print("="*40)
-    print("daya yang anda hasilkan adalah",hasil,"Ampere")
+    print("daya yang anda hasilkan adalah",hasil,"Watt")
     print("="*40)
     kembali =str(input("ingin kembali ke menu utama ? y/n : "))
     print("="*40)
